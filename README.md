@@ -24,8 +24,8 @@ Currently includes **4 documented workflows** with clear understanding of JSON d
 
 [![Watch Demo](https://img.youtube.com/vi/-Q8ZZbt11R8/maxresdefault.jpg)](https://youtu.be/-Q8ZZbt11R8)
 
-**N8n cancellation function:**
-<img width="1920" height="924" alt="image" src="https://github.com/user-attachments/assets/239ad1e7-757f-4434-8bfb-746f90527379" />
+**N8n cancellation function**: <img width="1917" height="896" alt="n8n cancellation system" src="https://github.com/user-attachments/assets/32446718-e1f9-4f7e-9caa-8884ef7a446d" />
+
 
 
 
@@ -33,30 +33,35 @@ Currently includes **4 documented workflows** with clear understanding of JSON d
 **What it does:** When a new fuel entry is added (often messy text), the AI extracts structured data (date, quantity in liters, vehicle code, customer, notes, etc.) and automatically creates a clean row in Google Sheets.
 
 **Business value:** Saves 2hours/day => 60hours/month, saving hours of manual data cleaning for fuel/logistics businesses in Vietnam, reduces errors, and keeps records accurate and searchable.  
-**Tech stack:** Activepieces, Google Sheets, Google Form.  
+**Tech stack:** Activepieces, Google Sheets, Google Form, n8n, Javascript codes
 **Status:** ✅ Built & Documented  
-**What I learned:** I should've defined **the scope** when initially starting the project because this uncle brushes me off saying I shouldn't waste time on those systems and focus on school.
+**What I learned:** Compared the strengths of n8n and Activepieces for AI-powered data extraction workflows. Activepieces was faster for structured output, while n8n gave more flexibility with custom code.
+**Activepieces workflow**: <img width="1920" height="917" alt="AI Fuel Intake" src="https://github.com/user-attachments/assets/c3f5e852-58aa-4ca8-b621-d70182485bf7" />
+**N8n Workflow**: <img width="1920" height="927" alt="AI Fuel Intake2" src="https://github.com/user-attachments/assets/234dd126-b4d5-4c74-baeb-fc73a6271390" />
 
-<img width="1920" height="917" alt="AI Fuel Intake" src="https://github.com/user-attachments/assets/c3f5e852-58aa-4ca8-b621-d70182485bf7" />
 
 
-### 3. [Name of Your Third Workflow]
-**What it does:** Short clear description of what the automation does.  
-**Business value:** One-sentence real-world benefit.  
-**Tech stack:** n8n, ...  
+### 3. AI Google Review Auto-Responder for Dental Clinic
+**What it does:** When a new patient record is added to Google Sheets, the workflow automatically sends a thank-you email via Gmail, then follows up with a polite Telegram message asking the patient to leave a Google review.
+**Business value:** Helps dental clinics in Vietnam automatically collect more Google reviews with minimal manual effort, improving online reputation and attracting new patients.
+**Tech stack:** Activepieces, Google Sheets, Gmail, Google Form
 **Status:** ✅ Built & Documented  
-**What I learned:** One key lesson.
+**What I learned:** Using delay nodes to create natural timing between messages so it doesn't feel too automated.
+**Activepieces Workflow**: <img width="1920" height="919" alt="Activepieces Workflow" src="https://github.com/user-attachments/assets/530e5139-81be-4ede-aa8b-3a769dcd0135" />
 
-> *(Add screenshot here)*
 
-### 4. [Name of Your Fourth Workflow]
-**What it does:** Short clear description of what the automation does.  
-**Business value:** One-sentence real-world benefit.  
-**Tech stack:** n8n, ...  
+### 4. Veterinary Data Entry Supported Workflow
+**What it does:** Automatically returns clean rows updated into Google Sheets from messy datas
+**Business value:** Saves veterinary clinics 2 hours everyday, leading to more time for customer services and pet treatments 
+**Tech stack:** n8n, Google Sheets, Google Form
 **Status:** ✅ Built & Documented  
-**What I learned:** One key lesson.
+**What I learned:** The AI should be able to read data and extract correctly, if unsure it should leave that category blank
 
-> *(Add screenshot here)*
+**Demo Video**
+[![Watch Demo](https://www.loom.com/share/600382d2d39d4be882f0f7921fe509f3)
+
+**N8n Workflow** <img width="1920" height="922" alt="Vet" src="https://github.com/user-attachments/assets/c244667d-9bfe-41c8-a091-2a8289a687ad" />
+
 
 ## Skills Demonstrated
 - Visual workflow building in n8n
@@ -88,7 +93,7 @@ Currently includes **4 documented workflows** with clear understanding of JSON d
 
 ## Contact & Collaboration
 - n8n Vietnam Community on Facebook (highly recommended for local support)
-- GitHub: [@EdwardPlumbVoiceAI](https://github.com/EdwardPlumbVoiceAI)
+- GitHub: [@Mai Gia Bảo(Edward)](https://github.com/Mai Gia Bảo(Edward))
 - Open to feedback, suggestions, or freelance opportunities!
 
 Made with ❤️ in Hanoi, Vietnam  
