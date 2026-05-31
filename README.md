@@ -4,7 +4,7 @@
 <img src="https://img.shields.io/badge/AI%20Automation-OpenAI-blue?style=flat" alt="AI">
 <img src="https://img.shields.io/badge/Location-Hanoi,%20Vietnam-red?style=flat" alt="Vietnam">
 
-**Hi, I'm Bao** — a 17-year-old aspiring **AI automation specialist** from Hanoi, Vietnam 🇻🇳.
+**Hi, I'm Bao** — a 18-year-old aspiring **AI automation specialist** from Hanoi, Vietnam 🇻🇳.
 
 This repository showcases **practical n8n workflows** I’ve built while learning AI automation.  
 My focus is on solving real business problems for Vietnamese SMEs and international clients — increasing overall revenue, saving time, reducing manual work, and using AI intelligently.
