@@ -93,7 +93,7 @@ Currently includes **4 documented workflows** with clear understanding of JSON d
 
 ## Contact & Collaboration
 - n8n Vietnam Community on Facebook (highly recommended for local support)
-- GitHub: [@Mai Gia Bảo(Edward)](https://github.com/EdwardPlumbVoiceAI)
+- GitHub: [@Mai Gia Bảo]((https://github.com/BaoAutomates))
 - Open to feedback, suggestions, or freelance opportunities!
 
 Made with ❤️ in Hanoi, Vietnam  
